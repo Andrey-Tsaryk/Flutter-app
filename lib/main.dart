@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
           decoration: BoxDecoration(
             gradient: LinearGradient(
               colors: [
-                Colors.red,
+                Colors.red[500],
                 Colors.black,
               ],
             ),
