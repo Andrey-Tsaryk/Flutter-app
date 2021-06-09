@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
             gradient: LinearGradient(
               colors: [
                 Colors.red[500],
-                Colors.black,
+                Colors.red,
               ],
             ),
           ),
